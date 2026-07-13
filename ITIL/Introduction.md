@@ -43,13 +43,14 @@ Ensure compliance and governance
 Continuously improve services
 
 **Evolution of ITIL **
+Evolution of ITIL 
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/aed15a74-0ab0-426a-a345-08ff6e75c0c0" />
 
 
 **ITIL 4 Governance to Service Delivery Flow**
 
-<img width="268" height="332" alt="image" src="https://github.com/user-attachments/assets/ee4568fa-336c-43aa-a62f-7e61a01d79b1" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ee4568fa-336c-43aa-a62f-7e61a01d79b1" />
 
 
 
