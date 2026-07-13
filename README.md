@@ -1,6 +1,6 @@
 # Enterprise-resilience-lab
 Enterprise SRE, Chaos Engineering, Disaster Recovery, AIOps and MCP Portfolio
-A GitHub profile README is different from a resume. It should quickly communicate who you are, what you work on, and what visitors can explore in your repositories. Based on what you've shared over many conversations, here's a strong first draft you can adapt.
+
 
 # Hi, I'm Harsha Pol 👋
 
