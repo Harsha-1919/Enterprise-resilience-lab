@@ -37,6 +37,8 @@ I am passionate about designing resilient systems, modernizing IT operations thr
 
 * AWS
 * Azure (Fundamentals)
+* PCF
+* Google (Fundamentals)
 
 ### DevOps
 
@@ -61,7 +63,8 @@ I am passionate about designing resilient systems, modernizing IT operations thr
 ### Automation
 
 * Microsoft Power Automate
-  N8N
+*  N8N
+ 
 
 ### AI & Automation
 
@@ -84,6 +87,9 @@ I am passionate about designing resilient systems, modernizing IT operations thr
 * Disaster Recovery
 * Business Continuity
 * Risk Management
+* Mainframe to Linux Migration & Transformation
+* Legacy Application Modernization
+
 
 ---
 
