@@ -2,7 +2,7 @@
 Enterprise SRE, Chaos Engineering, Disaster Recovery, AIOps and MCP Portfolio
 
 
-# Hi, I'm Harsha Pol 👋
+# Hi, I'm Harsha 👋
 
 ## About Me
 
