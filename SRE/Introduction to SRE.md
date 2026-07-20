@@ -73,7 +73,12 @@ Modern trends include:
 - Predictive analytics: Using AI to forecast demand, detect anomalies, and identify root causes  
 
 This shift toward AI-first SRE is transforming operations from reactive to predictive.
-Source - https://learn.microsoft.com/en-us/azure/site-reliability-engineering/resources/books?source=recommendations
+
+Source - 
+
+https://learn.microsoft.com/en-us/azure/site-reliability-engineering/resources/books?source=recommendations
+https://sre.google/resources/practices-and-processes/incident-metrics-in-sre/
+https://sre.google/resources/practices-and-processes/ai-engineering-reliable-operations/
 ### Final Thought
 
 SRE redefines reliability as a measurable, engineerable outcome—not just a goal. By combining software engineering with operational discipline, it enables organizations to build systems that are both scalable and resilient.
